@@ -12,5 +12,5 @@ spec:
     template: "test"
     createMode: "manual"
     params:
-      repo: "custom"
+      repo: "virtualmachine"
       region: "us-pittsburgh"
