@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: virtualmachine
+  tags:
+  - test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-a
+  coder:
+    template: "test"
+    createMode: "manual"
+    params:
+      repo: "custom"
+      region: "us-pittsburgh"
