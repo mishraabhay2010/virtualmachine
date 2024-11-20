@@ -8,7 +8,7 @@ metadata:
 spec:
   type: other
   lifecycle: unknown
-  owner: team-a
+  owner: "group:default/team-a"
   coder:
     template: "test"
     createMode: "manual"
